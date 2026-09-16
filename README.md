@@ -1,4 +1,4 @@
-AI Weather Assistant
+**AI Weather Assistant**
 
 AI Weather Assistant is an AI-powered conversational weather application that provides real-time weather information for cities around the world.
 
